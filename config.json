@@ -11,7 +11,7 @@
         "title":"",
         "provider":"overview",
         "arguments":[
-          "https://raw.githubusercontent.com/abr120/tajoeed/master/laday.json"
+          "https://raw.githubusercontent.com/alsaeda/tajoeed/master/laday.json"
         ]
       }
     ]
@@ -30,7 +30,7 @@
         "title":"التقييم وطلب الكرتون",
         "provider":"overview",
         "arguments":[
-          "https://raw.githubusercontent.com/abr120/tajoeed/master/Settings.json"
+          "https://raw.githubusercontent.com/alsaeda/tajoeed/master/Settings.json"
         ]
       }
     ]
