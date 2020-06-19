@@ -1,0 +1,31 @@
+ [
+  {
+   
+    "title":"google play التقييم",
+    "provider":"custom",
+    "image":"https://abrahemm20007.files.wordpress.com/2020/06/index0-1.jpg",
+    "arguments":[
+      "https://play.google.com/store/apps/details?id=com.abrabi.tajoeed",
+      "url"
+    ]
+  },
+  
+ {
+    "title":"التقييم من galaxystore",
+   "provider":"custom",
+    "image":"https://abrahemm20007.files.wordpress.com/2020/06/index-1.jpg",
+    "arguments":[
+      "http://apps.samsung.com/mars/appquery/appDetail.as?appId=com.abrabi.tajoeed",
+      "url"
+    ]
+  },
+  
+ {
+    "title":"سياسة الخصوصية وشروط الإستخدام",
+    "provider":"overview",
+    "image":"https://abrahemm20007.files.wordpress.com/2020/05/privacy.png",
+    "arguments":[
+      "https://raw.githubusercontent.com/abr120/videonline/master/Newfolder/privacypolicy.json"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+ 
+  
+"title":"دورة تعليم احكام التجويد للمبتدئين ",
+    "drawable":"ic_girls",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/abr120/tajoeed/master/laday.json"
+        ]
+      }
+    ]
+  },
+  
+  
+
+
+  {
+    "title":"التقييم والطلبات",
+    "drawable":"ic_rate",
+    "submenu":"التواصل معنا والتقييم",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"التقييم وطلب الكرتون",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/abr120/tajoeed/master/Settings.json"
+        ]
+      }
+    ]
+  }
+]
